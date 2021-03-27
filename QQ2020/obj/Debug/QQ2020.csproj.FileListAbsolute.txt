@@ -1,0 +1,12 @@
+c:\users\allez\documents\visual studio 2013\Projects\QQ2020\QQ2020\bin\Debug\QQ2020.exe.config
+c:\users\allez\documents\visual studio 2013\Projects\QQ2020\QQ2020\bin\Debug\QQ2020.exe
+c:\users\allez\documents\visual studio 2013\Projects\QQ2020\QQ2020\bin\Debug\QQ2020.pdb
+c:\users\allez\documents\visual studio 2013\Projects\QQ2020\QQ2020\obj\Debug\QQ2020.Properties.Resources.resources
+c:\users\allez\documents\visual studio 2013\Projects\QQ2020\QQ2020\obj\Debug\QQ2020.csproj.GenerateResource.Cache
+c:\users\allez\documents\visual studio 2013\Projects\QQ2020\QQ2020\obj\Debug\QQ2020.exe
+c:\users\allez\documents\visual studio 2013\Projects\QQ2020\QQ2020\obj\Debug\QQ2020.pdb
+c:\users\allez\documents\visual studio 2013\Projects\QQ2020\QQ2020\obj\Debug\QQ2020.Form1.resources
+C:\Users\Allez\Documents\Visual Studio 2013\Projects\QQ2020\QQ2020\obj\Debug\QQ2020.Form2.resources
+C:\Users\Allez\Documents\Visual Studio 2013\Projects\QQ2020\QQ2020\obj\Debug\QQ2020.Form3.resources
+C:\Users\Allez\Documents\Visual Studio 2013\Projects\QQ2020\QQ2020\obj\Debug\QQ2020.csprojResolveAssemblyReference.cache
+C:\Users\Allez\Documents\Visual Studio 2013\Projects\QQ2020\QQ2020\bin\Debug\WindowsFormsControlLibrary1.dll
