@@ -1,5 +1,7 @@
 # QQ20XX
-This is a C# project to imitation the interface of QQ
+这是一个学习桌面应用程序的小练习，其核心内容是模仿QQ的界面。
+
+项目分别实现了QQ的登录界面和主界面。
 
 ![image](https://github.com/MlllXavier/QQ20XX/assets/48932130/e913244a-f88f-4316-9af9-7695fe784b99)
 
